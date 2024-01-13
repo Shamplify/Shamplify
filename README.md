@@ -1,5 +1,6 @@
 ### Hi there! 👋
 I'm Chris, a 19-year old game developer on Roblox with an interest in 3D modeling, animation, composing, and of course, programming!
+
 I am currently a college freshman majoring in computer science, living on the hope that the things I learn on my path to earning a degree are worth more than the cost of my tuition.
 
 <!--
