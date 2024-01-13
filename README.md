@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there! 👋
+I'm Sham, a game developer on Roblox with an interest in 3D modeling, animation, composing, and of course, programming!
 
 <!--
 **Shamplify/Shamplify** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
